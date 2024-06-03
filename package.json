@@ -1,11 +1,11 @@
 {
-  "name": "@divyansh_singh/template-grabber",
+  "name": "@divyansh/template-grabber",
   "version": "1.0.0",
   "description": "A Command Line Interface (to automatically setup pre-configured JavaScript and various other frameworks initial project template) crafted using NodeJS and external third-party library",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "@divyansh_singh/template-grabber": "bin/template-grabber.js",
+    "@divyansh/template-grabber": "bin/template-grabber.js",
     "template-grabber": "bin/template-grabber.js"
   },
   "publishConfig": {
@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Divyansh Singh",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.24.6",
