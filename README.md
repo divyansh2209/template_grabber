@@ -6,7 +6,7 @@ Template Grabber helps you create custom boilerplate templating code files that 
 
 With NPM:
 ```sh
-$ npm i @divyansh2209/template-grabber
+$ npm i @divyansh2209/temp-grabber
 ```
 ## Command Line Interface
 
@@ -22,42 +22,42 @@ Template Grabber is crafted using NodeJS and several external third-party librar
 
 - Generate JavaScript template:
 ```sh
-  npx template-grabber javascript
+  npx temp-grabber javascript
 ```
 - Generate Create React App template:
 ```sh
-  npx template-grabber react
+  npx temp-grabber react
 ```
 - Generate Vite React template
 ```sh
-  npx template-grabber viteReact
+  npx temp-grabber viteReact
 ```
 - Generate React Redux template:
 ```sh
-  npx template-grabber react-redux
+  npx temp-grabber react-redux
 ```
 - Generate Next.js template:
 ```sh
-  npx template-grabber nextjs
+  npx temp-grabber nextjs
 ```
 
 ## Additional Options
 **Generate template with initialized GIT:**
 ```sh
-  npx template-grabber javascript --git
-  npx template-grabber react --git
-  npx template-grabber viteReact --git
-  npx template-grabber react-redux --git
-  npx template-grabber nextjs --git
+  npx temp-grabber javascript --git
+  npx temp-grabber react --git
+  npx temp-grabber viteReact --git
+  npx temp-grabber react-redux --git
+  npx temp-grabber nextjs --git
 ```
 
 **Generate template with initialized GIT and install all dependencies:**
 ```sh
-  npx template-grabber javascript --git --install 
-  npx template-grabber react --git --install
-  npx template-grabber viteReact --git --install
-  npx template-grabber react-redux --git --install
-  npx template-grabber nextjs --git --install
+  npx temp-grabber javascript --git --install 
+  npx temp-grabber react --git --install
+  npx temp-grabber viteReact --git --install
+  npx temp-grabber react-redux --git --install
+  npx temp-grabber nextjs --git --install
 ```
 ## License
 
