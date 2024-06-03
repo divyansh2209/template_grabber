@@ -1,11 +1,11 @@
 {
-  "name": "@divyansh/template-grabber",
+  "name": "@divyansh2209/temp-grabber",
   "version": "1.0.0",
   "description": "A Command Line Interface (to automatically setup pre-configured JavaScript and various other frameworks initial project template) crafted using NodeJS and external third-party library",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "@divyansh/template-grabber": "bin/template-grabber.js",
+    "@divyansh2209/template-grabber": "bin/template-grabber.js",
     "template-grabber": "bin/template-grabber.js"
   },
   "publishConfig": {
