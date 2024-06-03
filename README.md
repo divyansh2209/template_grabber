@@ -22,42 +22,42 @@ Template Grabber is crafted using NodeJS and several external third-party librar
 
 - Generate JavaScript template:
 ```sh
-  npx temp-grabber javascript
+  npx @divyansh2209/temp-grabber javascript
 ```
 - Generate Create React App template:
 ```sh
-  npx temp-grabber react
+  npx @divyansh2209/temp-grabber react
 ```
 - Generate Vite React template
 ```sh
-  npx temp-grabber viteReact
+  npx @divyansh2209/temp-grabber viteReact
 ```
 - Generate React Redux template:
 ```sh
-  npx temp-grabber react-redux
+  npx @divyansh2209/temp-grabber react-redux
 ```
 - Generate Next.js template:
 ```sh
-  npx temp-grabber nextjs
+  npx @divyansh2209/temp-grabber nextjs
 ```
 
 ## Additional Options
 **Generate template with initialized GIT:**
 ```sh
-  npx temp-grabber javascript --git
-  npx temp-grabber react --git
-  npx temp-grabber viteReact --git
-  npx temp-grabber react-redux --git
-  npx temp-grabber nextjs --git
+  npx @divyansh2209/temp-grabber javascript --git
+  npx @divyansh2209/temp-grabber react --git
+  npx @divyansh2209/temp-grabber viteReact --git
+  npx @divyansh2209/temp-grabber react-redux --git
+  npx @divyansh2209/temp-grabber nextjs --git
 ```
 
 **Generate template with initialized GIT and install all dependencies:**
 ```sh
-  npx temp-grabber javascript --git --install 
-  npx temp-grabber react --git --install
-  npx temp-grabber viteReact --git --install
-  npx temp-grabber react-redux --git --install
-  npx temp-grabber nextjs --git --install
+  npx @divyansh2209/temp-grabber javascript --git --install 
+  npx @divyansh2209/temp-grabber react --git --install
+  npx @divyansh2209/temp-grabber viteReact --git --install
+  npx @divyansh2209/temp-grabber react-redux --git --install
+  npx @divyansh2209/temp-grabber nextjs --git --install
 ```
 ## License
 
